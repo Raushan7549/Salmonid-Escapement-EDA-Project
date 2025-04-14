@@ -5,7 +5,7 @@ Exploratory Data Analysis (EDA) on the WDFW Salmonid Population Indicators (SPI)
 
 This project presents a detailed Exploratory Data Analysis (EDA) of the **WDFW Salmonid Population Indicators (SPI) Escapement dataset** using Python. The dataset contains over 25,000 records related to salmon species abundance over multiple years and sub-populations.
 
-## 📊 Objectives Achieved
+##  Objectives Achieved
 
 1. **Trend Analysis** of escapement using 3-year rolling averages
 2. **Heatmap Visualization** of species-wise yearly abundance
