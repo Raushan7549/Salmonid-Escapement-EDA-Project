@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 df = pd.read_csv("C:\\Users\\raush\\Downloads\\WDFW-Salmonid_Population_Indicators__SPI__Escapement_20250405.csv")
-
 df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
 
 print("\n Dataset Overview:")
